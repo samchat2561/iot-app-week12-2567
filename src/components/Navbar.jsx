@@ -9,7 +9,7 @@ const Navbar = () => {
 
     return (
         <>
-            <div className='font-[sans-serif]'>
+            <div className='font-[sarabun]'>
                 {/* Start Header */}
                 <nav className='w-full bg-[#AC1CE6] top-0 z-0 stickey cursor-pointer shadow-lg'>
                     <div className="justify-between mx-auto lg:max-w-7xl md:items-center md:flex px-4 md:px-8">
@@ -69,7 +69,7 @@ const Navbar = () => {
                     
                     {/* Line navbar */}
                     <div className="py-[0.10rem] flex w-full bg-white"></div>
-                    
+
                 </nav>
                 {/* End Header */}
             </div>
